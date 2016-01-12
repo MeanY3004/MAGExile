@@ -1550,9 +1550,9 @@ class CfgExileArsenal
 	class Exile_Car_Hatchback_Grey						{ quality = 1; price = 12000; };
 	class Exile_Car_Hatchback_Black						{ quality = 1; price = 12000; };
 	class Exile_Car_Hatchback_Dark						{ quality = 1; price = 12000; };
-	class Exile_Car_Hatchback_Rusty1					{ quality = 1; price = 12000; sellPrice = 1000; };
-	class Exile_Car_Hatchback_Rusty2					{ quality = 1; price = 12000; sellPrice = 1000; };
-	class Exile_Car_Hatchback_Rusty3					{ quality = 1; price = 12000; sellPrice = 1000; };
+	class Exile_Car_Hatchback_Rusty1					{ quality = 1; price = 12000; sellPrice = 3000; };
+	class Exile_Car_Hatchback_Rusty2					{ quality = 1; price = 12000; sellPrice = 3000; };
+	class Exile_Car_Hatchback_Rusty3					{ quality = 1; price = 12000; sellPrice = 3000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Ikarus
@@ -1601,7 +1601,7 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Hatchback (Sport)
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Hatchback_Sport_Red					{ quality = 1; price = 14000; sellPrice = 1500; };
+	class Exile_Car_Hatchback_Sport_Red					{ quality = 1; price = 14000; sellPrice = 3500; };
 	class Exile_Car_Hatchback_Sport_Blue				{ quality = 1; price = 14000; };
 	class Exile_Car_Hatchback_Sport_Orange				{ quality = 1; price = 14000; };
 	class Exile_Car_Hatchback_Sport_White				{ quality = 1; price = 14000; };
@@ -1611,17 +1611,17 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// HEMMT
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_HEMMT 								{ quality = 1; price = 48000; sellPrice = 4500; };
+	class Exile_Car_HEMMT 								{ quality = 1; price = 48000; sellPrice = 12000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Hunter
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Hunter 								{ quality = 1; price = 26500; sellPrice = 5500; };
+	class Exile_Car_Hunter 								{ quality = 1; price = 26500; sellPrice = 7500; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Ifrit
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Ifrit 								{ quality = 1; price = 23000; sellPrice = 5500; };
+	class Exile_Car_Ifrit 								{ quality = 1; price = 23000; sellPrice = 6750; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Offroad
@@ -1644,14 +1644,14 @@ class CfgExileArsenal
 	class Exile_Car_Offroad_Guerilla10					{ quality = 1; price = 16000; };
 	class Exile_Car_Offroad_Guerilla11					{ quality = 1; price = 16000; };
 	class Exile_Car_Offroad_Guerilla12					{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Rusty1						{ quality = 1; price = 16000; sellPrice = 1500; };
-	class Exile_Car_Offroad_Rusty2						{ quality = 1; price = 16000; sellPrice = 1500; };
-	class Exile_Car_Offroad_Rusty3						{ quality = 1; price = 16000; sellPrice = 1500; };
+	class Exile_Car_Offroad_Rusty1						{ quality = 1; price = 16000; sellPrice = 4000; };
+	class Exile_Car_Offroad_Rusty2						{ quality = 1; price = 16000; sellPrice = 4000; };
+	class Exile_Car_Offroad_Rusty3						{ quality = 1; price = 16000; sellPrice = 4000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Offroad (Armed)
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Offroad_Armed_Guerilla01 			{ quality = 1; price = 25000; sellPrice = 2500; };
+	class Exile_Car_Offroad_Armed_Guerilla01 			{ quality = 1; price = 25000; sellPrice = 6250; };
 	class Exile_Car_Offroad_Armed_Guerilla02 			{ quality = 1; price = 25000; };
 	class Exile_Car_Offroad_Armed_Guerilla03 			{ quality = 1; price = 25000; };
 	class Exile_Car_Offroad_Armed_Guerilla04 			{ quality = 1; price = 25000; };
@@ -1667,7 +1667,7 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Offroad (Repair)
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Offroad_Repair_Civillian 			{ quality = 1; price = 12500; sellPrice = 1500; };
+	class Exile_Car_Offroad_Repair_Civillian 			{ quality = 1; price = 12500; sellPrice = 3125; };
 	class Exile_Car_Offroad_Repair_Red 					{ quality = 1; price = 12500; };
 	class Exile_Car_Offroad_Repair_Beige 				{ quality = 1; price = 12500; };
 	class Exile_Car_Offroad_Repair_White 				{ quality = 1; price = 12500; };
@@ -1690,12 +1690,12 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Strider
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Strider 							{ quality = 1; price = 44000; sellPrice = 5500; };
+	class Exile_Car_Strider 							{ quality = 1; price = 44000; sellPrice = 11000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// SUV
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_SUV_Red 							{ quality = 1; price = 14000; sellPrice = 1800; };
+	class Exile_Car_SUV_Red 							{ quality = 1; price = 14000; sellPrice = 3500; };
 	class Exile_Car_SUV_Black 							{ quality = 1; price = 14000; };
 	class Exile_Car_SUV_Grey 							{ quality = 1; price = 14000; };
 	class Exile_Car_SUV_Orange 							{ quality = 1; price = 14000; };
@@ -1703,12 +1703,12 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Tempest
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Tempest 							{ quality = 1; price = 48300; sellPrice = 4700; };
+	class Exile_Car_Tempest 							{ quality = 1; price = 48300; sellPrice = 12075; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Van 
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Van_Black 							{ quality = 1; price = 12000; sellPrice = 2400; };
+	class Exile_Car_Van_Black 							{ quality = 1; price = 12000; sellPrice = 3000; };
 	class Exile_Car_Van_White 							{ quality = 1; price = 12000; };
 	class Exile_Car_Van_Red 							{ quality = 1; price = 12000; };
 	class Exile_Car_Van_Guerilla01 						{ quality = 1; price = 12000; };
@@ -1723,7 +1723,7 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Van (Box) 
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Van_Box_Black 						{ quality = 1; price = 17000; sellPrice = 2600; };
+	class Exile_Car_Van_Box_Black 						{ quality = 1; price = 17000; sellPrice = 4250; };
 	class Exile_Car_Van_Box_White 						{ quality = 1; price = 17000; };
 	class Exile_Car_Van_Box_Red 						{ quality = 1; price = 17000; };
 	class Exile_Car_Van_Box_Guerilla01 					{ quality = 1; price = 17000; };
@@ -1738,7 +1738,7 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Van (Fuel) 
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Van_Fuel_Black 						{ quality = 1; price = 15000; sellPrice = 3300; };
+	class Exile_Car_Van_Fuel_Black 						{ quality = 1; price = 15000; sellPrice = 3750; };
 	class Exile_Car_Van_Fuel_White 						{ quality = 1; price = 15000; };
 	class Exile_Car_Van_Fuel_Red 						{ quality = 1; price = 15000; };
 	class Exile_Car_Van_Fuel_Guerilla01 				{ quality = 1; price = 15000; };
@@ -1748,7 +1748,7 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Zamak
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Zamak 								{ quality = 1; price = 43000; sellPrice = 4500; };
+	class Exile_Car_Zamak 								{ quality = 1; price = 43000; sellPrice = 10750; };
 };
 class CfgExileCustomCode 
 {
